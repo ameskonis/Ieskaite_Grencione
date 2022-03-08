@@ -13,7 +13,7 @@
 #6 Lange Rūdolfs Toms
 
 #7 Meškonis Aleksandrs Nils
-
+print(sin(radians(30)+fmod(13,2)))
 #8 Robežnieks Eduards
 
 #9 Saukums Krists
